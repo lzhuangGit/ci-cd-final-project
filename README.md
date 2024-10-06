@@ -1,5 +1,5 @@
 # CI/CD Tools and Practices Final Project Template
-
+[![CI workflow](https://github.com/lzhuangGit/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/lzhuangGit/ci-cd-final-project/actions/workflows/workflow.yml)
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
 ## Usage
